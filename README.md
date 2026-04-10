@@ -50,4 +50,3 @@ Extracted data is logged to `data/psdPr/` and automatically forwarded to the con
 ## Acknowledgments
 - Toolkit foundation derived from the [IRIS DMC Noise Toolkit](https://github.com/iris-edu/noise-toolkit).
 - Original Berkeley Seismology Lab implementation by Sylvester Seo.
-- System modernization, secure configuration, and automated telemetry integration contributed by Matthew Ju (@matthewju).
