@@ -1,0 +1,18 @@
+{
+    "psd_period_settings": {
+        "period_value": ["50", "1.00", "0.1"],
+        "overwrite": true,
+        "data_center": "NCEDC"
+    }, 
+    "psd_parameters": {
+        "net": ["BK"],
+        "sta": ["AASB", "ALVW", "BCCR", "BKS", "BLAS", "BRK", "BONV", "BUCR", "CMB", "EAGL", "FARB", "GHOP", "HAPY", "HATC", "HELL", "JCC", "JEPS", "JRSC", "KNEE", "LIND"],
+        "loc": "00",
+        "chan": "HHN",
+        "xtype": "period",
+        "start": "2023-05-29T01:00:00",
+        "end": "2023-05-30T01:00:00",
+        "window_length": "3600",
+        "directory": "None"
+    }
+}

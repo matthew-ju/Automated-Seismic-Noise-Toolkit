@@ -1,0 +1,7 @@
+- install Python 3 on your computer (tested with Python 3.9.13)
+
+- additional required Python modules are:
+        . obspy (tested with version 1.3.1)
+        . matplotlib (tested with version 3.3.3)
+        . numpy (tested with version 1.23.4)
+        . scipy (tested with version 1.9.3)

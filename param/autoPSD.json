@@ -1,0 +1,18 @@
+{
+  "psd_period_settings": {
+    "period_value": ["50", "1.00", "0.1"],
+    "overwrite": true,
+    "data_center": "NCEDC"
+  },
+  "psd_parameters": {
+    "net": ["BK"],
+    "sta": ["BKS", "SHEP", "SUTB", "MHC", "HUMO", "YBH"],
+    "loc": "00",
+    "chan": "HHZ",
+    "xtype": "period",
+    "start": "2026-02-24T00:00:00",
+    "end": "2026-02-27T00:00:00",
+    "window_length": "3600",
+    "directory": "None"
+  }
+}
