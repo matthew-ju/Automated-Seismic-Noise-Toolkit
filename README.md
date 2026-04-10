@@ -21,6 +21,7 @@ Requires Python 3.9+.
 pip install -r requirements.txt
 ```
 
+.env file is used for telemetry; if you don't require a Graphite server running, the data will be saved as text files in the data/ directory.
 Create a `.env` file in the project root:
 ```env
 ADM_EMAILS=admin@example.com
